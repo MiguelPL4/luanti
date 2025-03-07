@@ -6,7 +6,6 @@
     <a href="https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html"><img src="https://img.shields.io/badge/license-LGPLv2.1%2B-blue.svg" alt="License"></a>
 <br><br>
 </div>
-
 Luanti is a free open-source voxel game engine with easy modding and game creation.
 
 Copyright (C) 2010-2025 Perttu Ahola <celeron55@gmail.com>
